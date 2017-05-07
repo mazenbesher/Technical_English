@@ -11,8 +11,22 @@
 <body>
 <p>
 <h1>TED Talks Vocabulary</h1>
-Source: Google
+    <div class="row">
+        <div class="col-xs-2"><strong>Source:</strong></div>
+        <div class="col-xs-6"><i class="fa fa-google" aria-hidden="true"></i> Google</div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-2"><strong>Code:</strong></div>
+        <div class="col-xs-6"><a href="https://github.com/mazenbesher/Technical_English"><i class="fa fa-github" aria-hidden="true"></i> Github</a></div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-2"><strong>Anki apkg:</strong></div>
+        <div class="col-xs-6"><a href="res/voc/anki.apkg"><i class="fa fa-download" aria-hidden="true"></i> Download</a></div>
+    </div>
 </p>
+
 <ol id="talks">
     <p>Loading...</p>
 </ol>
@@ -32,7 +46,9 @@ Source: Google
     <li><span class="keyword">{{keyword}}:</span> <span class="definition">{{definition}}</span><br></li>
 </script>
 
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+<script src="https://use.fontawesome.com/091394df71.js"></script>
 <script src="script.js"></script>
 </body>
 </html>

@@ -1,29 +1,29 @@
-lasting		
-propellant		
-malfunction		
-clutter/cluttering		
-stutter		
-hunk		
-debris		
-strew/strewn		
-paradigm		
-deorbit		
-constellation		
-buffet/buffeted		
-decay		
-geostationary		
-ominous		
-mandate		
-proactive		
-dubious		
-conquest		
-persuade		
-conservation		
-inadequate		
-deposit		
-drag sail		
-tugging		
-tethers		
-tow		
-tow truck		
-propulsion		
+lasting	enduring or able to endure over a long period of time.	
+propellant	<div>a substance that propels something, in particular:&nbsp;a substance used as a reagent in a rocket engine to provide thrust.</div>	
+malfunction	a failure to function normally.	
+clutter/cluttering	cover or fill (something) with an untidy collection of things.	
+stutter	talk with continued involuntary repetition of sounds, especially initial consonants. (progress in an irregular way.)	
+hunk	a large piece of something, especially food, cut or broken off a larger piece.	
+debris	scattered pieces of rubbish or remains.	
+strew/strewn	scatter or spread (things) untidily over a surface or area.	
+paradigm	a typical example or pattern of something; a pattern or model.	
+deorbit	to depart deliberately from orbit, usually to enter a descent phase. (source:&nbsp;dictionary.com)	
+constellation	a group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure.	
+buffet/buffeted	(especially of wind or waves) strike repeatedly and violently; batter.	
+decay	(of organic matter) rot or decompose through the action of bacteria and fungi.	
+geostationary	(of an artificial satellite of the earth) moving in a circular geosynchronous orbit in the plane of the equator, so that it appears to be stationary in the sky above a fixed point on the surface.	
+ominous	giving the worrying impression that something bad is going to happen; threateningly inauspicious.	
+mandate	an official order or commission to do something.	
+proactive	(of a person or action) creating or controlling a situation rather than just responding to it after it has happened.	
+dubious	hesitating or doubting.	
+conquest	the subjugation and assumption of control of a place or people by military force.	
+persuade	induce (someone) to do something through reasoning or argument.	
+conservation	the action of conserving something.	
+inadequate	lacking the quality or quantity required; insufficient for a purpose.	
+deposit	a sum payable as a first instalment on the purchase of something or as a pledge for a contract, the balance being payable later.	
+drag sail	a sea anchor made of canvas.&nbsp;(source:&nbsp;dictionary.com)	
+tug/tugging	pull (something) hard or suddenly.	
+tether	1.&nbsp;tie (an animal) with a rope or chain so as to restrict its movement.<div>2.&nbsp;use (a smartphone) in order to connect a computer or other device to the Internet.</div>	
+tow	(of a motor vehicle or boat) pull (another vehicle or boat) along with a rope, chain, or tow bar.	
+tow truck	A truck used to move disabled, improperly parked, impounded, or otherwise indisposed motor vehicles. (Source:&nbsp;wikipedia)	
+propulsion	the action of driving or pushing forwards.	

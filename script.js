@@ -10,8 +10,8 @@ function read_anki(file_number, target_id) {
     lines.forEach(
         function (entry, index) {
             data.push({
-                'keyword': entry.split('\t')[0],
-                'definition': entry.split('\t')[1]
+                'keyword': replaceDivs(decodeHtml(entry.split('\t')[0])),
+                'definition': replaceDivs(decodeHtml(entry.split('\t')[1]))
             })
         }
     );
@@ -37,6 +37,16 @@ function fill_talks(talks) {
             read_anki(entry.num, 'ted' + entry.num + '_voc');
         }
     );
+}
+
+function decodeHtml(html) {
+    var txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+}
+
+function replaceDivs(txt){
+    return txt.replace('<div>','').replace('</div>','');
 }
 
 var talks = [
