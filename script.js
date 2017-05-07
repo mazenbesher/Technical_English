@@ -59,6 +59,11 @@ var talks = [
         'link': 'https://www.ted.com/talks/natalie_panek_let_s_clean_up_the_space_junk_orbiting_earth',
         'title': 'Let\'s clean up the space junk orbiting Earth',
         'num': '2'
+    },
+    {
+        'link': 'https://www.ted.com/talks/eben_bayer_are_mushrooms_the_new_plastic',
+        'title': 'Are mushrooms the new plastic?',
+        'num': '4'
     }
 ]
 
