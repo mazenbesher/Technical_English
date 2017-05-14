@@ -74,6 +74,11 @@ var talks = [
         'link': 'https://www.ted.com/talks/avi_reichental_what_s_next_in_3d_printing',
         'title': 'What\'s next in 3D printing',
         'num': '5'
+    },
+    {
+        'link': 'https://www.ted.com/talks/marco_tempest_maybe_the_best_robot_demo_ever',
+        'title': 'And for my next trick, a robot',
+        'num': '8'
     }
 ]
 
