@@ -61,6 +61,11 @@ var talks = [
         'num': '2'
     },
     {
+        'link': 'https://www.ted.com/talks/michael_shellenberger_how_fear_of_nuclear_power_is_hurting_the_environment',
+        'title': 'How fear of nuclear power is hurting the environment',
+        'num': '3'
+    },
+    {
         'link': 'https://www.ted.com/talks/eben_bayer_are_mushrooms_the_new_plastic',
         'title': 'Are mushrooms the new plastic?',
         'num': '4'
