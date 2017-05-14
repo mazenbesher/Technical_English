@@ -69,6 +69,11 @@ var talks = [
         'link': 'https://www.ted.com/talks/eben_bayer_are_mushrooms_the_new_plastic',
         'title': 'Are mushrooms the new plastic?',
         'num': '4'
+    },
+    {
+        'link': 'https://www.ted.com/talks/avi_reichental_what_s_next_in_3d_printing',
+        'title': 'What\'s next in 3D printing',
+        'num': '5'
     }
 ]
 
