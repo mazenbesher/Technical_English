@@ -82,7 +82,7 @@ var talks = [
     },
     {
         'link': 'https://www.ted.com/talks/steven_johnson_how_play_leads_to_great_inventions',
-        'title': 'The playful wonderland behind great ',
+        'title': 'The playful wonderland behind great inventions',
         'num': '7'
     },
     {
