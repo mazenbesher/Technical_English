@@ -76,9 +76,24 @@ var talks = [
         'num': '5'
     },
     {
+        'link': 'https://www.ted.com/talks/topher_white_what_can_save_the_rainforest_your_used_cell_phone',
+        'title': 'What can save the rainforest- Your used cell phone',
+        'num': '6'
+    },
+    {
+        'link': 'https://www.ted.com/talks/steven_johnson_how_play_leads_to_great_inventions',
+        'title': 'The playful wonderland behind great ',
+        'num': '7'
+    },
+    {
         'link': 'https://www.ted.com/talks/marco_tempest_maybe_the_best_robot_demo_ever',
         'title': 'And for my next trick, a robot',
         'num': '8'
+    },
+    {
+        'link': 'https://www.ted.com/talks/doris_kim_sung_metal_that_breathes',
+        'title': 'Metal that breathes',
+        'num': '9'
     }
 ]
 
